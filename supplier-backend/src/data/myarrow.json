@@ -1,0 +1,468 @@
+{
+    "status": "SUCCESS",
+    "requestedQuantity": "0",
+    "results": 5,
+    "pages": 1,
+    "totalRecords": 5,
+    "currentPage": 1,
+    "pricingResponse": [
+        {
+            "itemId": 6516206,
+            "warehouseId": 2384,
+            "warehouseCode": "V93",
+            "arrowReel": false,
+            "responseState": "SUCCESS",
+            "currency": "USD",
+            "documentId": "2384_06516206",
+            "resalePrice": "0.0545",
+            "fohQuantity": "0",
+            "description": "Conn Housing RCP 2 POS 1.25mm Crimp ST Cable Mount Natural PicoBlade™ Bag",
+            "partNumber": "0510210200",
+            "tariffValue": "null",
+            "tariffApplicable": "false",
+            "minOrderQuantity": 1,
+            "multOrderQuantity": 1,
+            "manufacturer": "Molex",
+            "mfrCode": "MOLEX",
+            "supplier": "Molex",
+            "htsCode": "8538.90.81.80",
+            "pkg": "EACH",
+            "spq": 200000,
+            "pricingTier": [
+                {
+                    "minQuantity": "1",
+                    "maxQuantity": "856",
+                    "resalePrice": "0.0773"
+                },
+                {
+                    "minQuantity": "857",
+                    "maxQuantity": "4467",
+                    "resalePrice": "0.0725"
+                },
+                {
+                    "minQuantity": "4468",
+                    "maxQuantity": "15220",
+                    "resalePrice": "0.0651"
+                },
+                {
+                    "minQuantity": "15221",
+                    "maxQuantity": "24488659620",
+                    "resalePrice": "0.0545"
+                }
+            ],
+            "urlData": [
+                {
+                    "type": "Image Small",
+                    "value": "https://download.siliconexpert.com/pdfs/2017/4/16/17/5/17/366/mol_/manual/51021_iso.jpg"
+                },
+                {
+                    "type": "Image Large",
+                    "value": "https://download.siliconexpert.com/pdfs/2017/4/13/14/43/19/291/mol_/manual/51021_iso.jpg"
+                },
+                {
+                    "type": "Datasheet",
+                    "value": "https://download.siliconexpert.com/pdfs2/2023/3/7/6/25/48/761619/mol_/manual/0510210200_crimp_housings.pdf"
+                },
+                {
+                    "type": "Part Details",
+                    "value": "https://my.arrow.com/products/2384_06516206"
+                }
+            ],
+            "leadTime": {
+                "supplierLeadTime": 8,
+                "supplierLeadTimeDate": "30-May-2023",
+                "arrowLeadTime": 8
+            },
+            "arwPartNum": {
+                "isExactMatch": true,
+                "name": "0510210200"
+            },
+            "suppPartNum": {
+                "isExactMatch": true,
+                "name": "0510210200"
+            },
+            "bufferQuantity": 0,
+            "euRohs": "Compliant",
+            "chinaRohs": "Compliant",
+            "quotable": false,
+            "purchasable": true,
+            "arrowInitiated": false,
+            "nonCancelableNonReturnable": false,
+            "taxonomy": "Interconnect > Connectors > Discrete Wire Housings",
+            "partClassification": "C",
+            "partBuyCurrency": "USD",
+            "exportControlClassificationNumberUS": "EAR99",
+            "exportControlClassificationNumberWAS": "NLR",
+            "lifeCycleStatus": "ACTIVE",
+            "franchised": "franchised",
+            "SVHC": {
+                "svhcOverThreshold": "No"
+            }
+        },
+        {
+            "itemId": 6516206,
+            "warehouseId": 2381,
+            "warehouseCode": "V90",
+            "arrowReel": false,
+            "responseState": "SUCCESS",
+            "currency": "USD",
+            "documentId": "2381_06516206",
+            "resalePrice": "0.0545",
+            "fohQuantity": "0",
+            "description": "Conn Housing RCP 2 POS 1.25mm Crimp ST Cable Mount Natural PicoBlade™ Bag",
+            "partNumber": "0510210200",
+            "tariffValue": "null",
+            "tariffApplicable": "false",
+            "minOrderQuantity": 1,
+            "multOrderQuantity": 1,
+            "manufacturer": "Molex",
+            "mfrCode": "MOLEX",
+            "supplier": "Molex",
+            "htsCode": "8538.90.81.80",
+            "pkg": "EACH",
+            "spq": 200000,
+            "pricingTier": [
+                {
+                    "minQuantity": "1",
+                    "maxQuantity": "856",
+                    "resalePrice": "0.0773"
+                },
+                {
+                    "minQuantity": "857",
+                    "maxQuantity": "4467",
+                    "resalePrice": "0.0725"
+                },
+                {
+                    "minQuantity": "4468",
+                    "maxQuantity": "15220",
+                    "resalePrice": "0.0651"
+                },
+                {
+                    "minQuantity": "15221",
+                    "maxQuantity": "24488659620",
+                    "resalePrice": "0.0545"
+                }
+            ],
+            "urlData": [
+                {
+                    "type": "Image Small",
+                    "value": "https://download.siliconexpert.com/pdfs/2017/4/16/17/5/17/366/mol_/manual/51021_iso.jpg"
+                },
+                {
+                    "type": "Image Large",
+                    "value": "https://download.siliconexpert.com/pdfs/2017/4/13/14/43/19/291/mol_/manual/51021_iso.jpg"
+                },
+                {
+                    "type": "Datasheet",
+                    "value": "https://download.siliconexpert.com/pdfs2/2023/3/7/6/25/48/761619/mol_/manual/0510210200_crimp_housings.pdf"
+                },
+                {
+                    "type": "Part Details",
+                    "value": "https://my.arrow.com/products/2381_06516206"
+                }
+            ],
+            "leadTime": {
+                "supplierLeadTime": 8,
+                "supplierLeadTimeDate": "30-May-2023",
+                "arrowLeadTime": 8
+            },
+            "arwPartNum": {
+                "isExactMatch": true,
+                "name": "0510210200"
+            },
+            "suppPartNum": {
+                "isExactMatch": true,
+                "name": "0510210200"
+            },
+            "bufferQuantity": 0,
+            "euRohs": "Compliant",
+            "chinaRohs": "Compliant",
+            "quotable": false,
+            "purchasable": true,
+            "arrowInitiated": false,
+            "nonCancelableNonReturnable": false,
+            "taxonomy": "Interconnect > Connectors > Discrete Wire Housings",
+            "partClassification": "C",
+            "partBuyCurrency": "USD",
+            "exportControlClassificationNumberUS": "EAR99",
+            "exportControlClassificationNumberWAS": "NLR",
+            "lifeCycleStatus": "ACTIVE",
+            "franchised": "franchised",
+            "SVHC": {
+                "svhcOverThreshold": "No"
+            }
+        },
+        {
+            "itemId": 18300573,
+            "warehouseId": 1790,
+            "warehouseCode": "V36",
+            "arrowReel": false,
+            "responseState": "SUCCESS",
+            "currency": "USD",
+            "documentId": "1790_18300573",
+            "resalePrice": "0.114",
+            "fohQuantity": "0",
+            "description": "Conn Housing RCP 2 POS 1.25mm Crimp ST Cable Mount Natural PicoBlade™ Bag",
+            "partNumber": "0510210200",
+            "tariffValue": "null",
+            "tariffApplicable": "false",
+            "minOrderQuantity": 1,
+            "multOrderQuantity": 1,
+            "manufacturer": "Molex",
+            "mfrCode": "MOLEX_WAL",
+            "supplier": "Molex",
+            "htsCode": "8538.90.81.80",
+            "pkg": "EACH",
+            "spq": 1,
+            "pricingTier": [
+                {
+                    "minQuantity": "1",
+                    "maxQuantity": "579",
+                    "resalePrice": "0.114"
+                },
+                {
+                    "minQuantity": "580",
+                    "maxQuantity": "3026",
+                    "resalePrice": "0.107"
+                },
+                {
+                    "minQuantity": "3027",
+                    "maxQuantity": "4999",
+                    "resalePrice": "0.0961"
+                },
+                {
+                    "minQuantity": "5000",
+                    "maxQuantity": "10999",
+                    "resalePrice": "0.0828"
+                },
+                {
+                    "minQuantity": "11000",
+                    "maxQuantity": "12457",
+                    "resalePrice": "0.0795"
+                },
+                {
+                    "minQuantity": "12458",
+                    "maxQuantity": "21999",
+                    "resalePrice": "0.0666"
+                },
+                {
+                    "minQuantity": "22000",
+                    "maxQuantity": "199999",
+                    "resalePrice": "0.0638"
+                },
+                {
+                    "minQuantity": "200000",
+                    "maxQuantity": "999999999",
+                    "resalePrice": "0.061"
+                }
+            ],
+            "urlData": [
+                {
+                    "type": "Image Small",
+                    "value": "https://download.siliconexpert.com/pdfs/2017/4/16/17/5/17/366/mol_/manual/51021_iso.jpg"
+                },
+                {
+                    "type": "Image Large",
+                    "value": "https://download.siliconexpert.com/pdfs/2017/4/13/14/43/19/291/mol_/manual/51021_iso.jpg"
+                },
+                {
+                    "type": "Datasheet",
+                    "value": "https://download.siliconexpert.com/pdfs2/2023/3/7/6/25/48/761619/mol_/manual/0510210200_crimp_housings.pdf"
+                },
+                {
+                    "type": "Part Details",
+                    "value": "https://my.arrow.com/products/1790_18300573"
+                }
+            ],
+            "leadTime": {
+                "supplierLeadTime": 10,
+                "supplierLeadTimeDate": "14-Nov-2022",
+                "arrowLeadTime": 10
+            },
+            "arwPartNum": {
+                "isExactMatch": true,
+                "name": "0510210200"
+            },
+            "suppPartNum": {
+                "isExactMatch": true,
+                "name": "0510210200"
+            },
+            "bufferQuantity": 0,
+            "euRohs": "Compliant",
+            "chinaRohs": "Compliant",
+            "quotable": false,
+            "purchasable": true,
+            "arrowInitiated": false,
+            "nonCancelableNonReturnable": false,
+            "taxonomy": "Interconnect > Connectors > Discrete Wire Housings",
+            "partClassification": "D",
+            "partBuyCurrency": "USD",
+            "exportControlClassificationNumberUS": "EAR99",
+            "exportControlClassificationNumberWAS": "NLR",
+            "lifeCycleStatus": "ACTIVE",
+            "franchised": "franchised",
+            "SVHC": {
+                "svhcOverThreshold": "No"
+            }
+        },
+        {
+            "itemId": 6516206,
+            "warehouseId": 2348,
+            "warehouseCode": "V99",
+            "arrowReel": false,
+            "responseState": "SUCCESS",
+            "documentId": "2348_06516206",
+            "fohQuantity": "0",
+            "description": "Conn Housing RCP 2 POS 1.25mm Crimp ST Cable Mount Natural PicoBlade™ Bag",
+            "partNumber": "0510210200",
+            "tariffValue": "null",
+            "tariffApplicable": "false",
+            "minOrderQuantity": 1,
+            "multOrderQuantity": 1,
+            "manufacturer": "Molex",
+            "mfrCode": "MOLEX",
+            "supplier": "Molex",
+            "htsCode": "8538.90.81.80",
+            "pkg": "EACH",
+            "spq": 200000,
+            "urlData": [
+                {
+                    "type": "Image Small",
+                    "value": "https://download.siliconexpert.com/pdfs/2017/4/16/17/5/17/366/mol_/manual/51021_iso.jpg"
+                },
+                {
+                    "type": "Image Large",
+                    "value": "https://download.siliconexpert.com/pdfs/2017/4/13/14/43/19/291/mol_/manual/51021_iso.jpg"
+                },
+                {
+                    "type": "Datasheet",
+                    "value": "https://download.siliconexpert.com/pdfs2/2023/3/7/6/25/48/761619/mol_/manual/0510210200_crimp_housings.pdf"
+                },
+                {
+                    "type": "Part Details",
+                    "value": "https://my.arrow.com/products/2348_06516206"
+                }
+            ],
+            "arwPartNum": {
+                "isExactMatch": true,
+                "name": "0510210200"
+            },
+            "suppPartNum": {
+                "isExactMatch": true,
+                "name": "0510210200"
+            },
+            "bufferQuantity": 0,
+            "euRohs": "Compliant",
+            "chinaRohs": "Compliant",
+            "quotable": true,
+            "purchasable": false,
+            "arrowInitiated": false,
+            "nonCancelableNonReturnable": false,
+            "taxonomy": "Interconnect > Connectors > Discrete Wire Housings",
+            "partClassification": "D",
+            "partBuyCurrency": "USD",
+            "exportControlClassificationNumberUS": "EAR99",
+            "exportControlClassificationNumberWAS": "NLR",
+            "lifeCycleStatus": "ACTIVE",
+            "franchised": "franchised",
+            "SVHC": {
+                "svhcOverThreshold": "No"
+            }
+        },
+        {
+            "itemId": 6516206,
+            "warehouseId": 1790,
+            "warehouseCode": "V36",
+            "arrowReel": false,
+            "responseState": "SUCCESS",
+            "currency": "USD",
+            "documentId": "1790_06516206",
+            "resalePrice": "0.0545",
+            "fohQuantity": "385887",
+            "description": "Conn Housing RCP 2 POS 1.25mm Crimp ST Cable Mount Natural PicoBlade™ Bag",
+            "partNumber": "0510210200",
+            "tariffValue": "null",
+            "tariffApplicable": "false",
+            "minOrderQuantity": 1,
+            "multOrderQuantity": 1,
+            "manufacturer": "Molex",
+            "mfrCode": "MOLEX",
+            "supplier": "Molex",
+            "htsCode": "8538.90.81.80",
+            "pkg": "EACH",
+            "spq": 200000,
+            "pricingTier": [
+                {
+                    "minQuantity": "1",
+                    "maxQuantity": "856",
+                    "resalePrice": "0.0773"
+                },
+                {
+                    "minQuantity": "857",
+                    "maxQuantity": "4467",
+                    "resalePrice": "0.0725"
+                },
+                {
+                    "minQuantity": "4468",
+                    "maxQuantity": "15220",
+                    "resalePrice": "0.0651"
+                },
+                {
+                    "minQuantity": "15221",
+                    "maxQuantity": "24488659620",
+                    "resalePrice": "0.0545"
+                }
+            ],
+            "urlData": [
+                {
+                    "type": "Image Small",
+                    "value": "https://download.siliconexpert.com/pdfs/2017/4/16/17/5/17/366/mol_/manual/51021_iso.jpg"
+                },
+                {
+                    "type": "Image Large",
+                    "value": "https://download.siliconexpert.com/pdfs/2017/4/13/14/43/19/291/mol_/manual/51021_iso.jpg"
+                },
+                {
+                    "type": "Datasheet",
+                    "value": "https://download.siliconexpert.com/pdfs2/2023/3/7/6/25/48/761619/mol_/manual/0510210200_crimp_housings.pdf"
+                },
+                {
+                    "type": "Part Details",
+                    "value": "https://my.arrow.com/products/1790_06516206"
+                }
+            ],
+            "leadTime": {
+                "supplierLeadTime": 8,
+                "supplierLeadTimeDate": "30-May-2023",
+                "arrowLeadTime": 8
+            },
+            "arwPartNum": {
+                "isExactMatch": true,
+                "name": "0510210200"
+            },
+            "suppPartNum": {
+                "isExactMatch": true,
+                "name": "0510210200"
+            },
+            "bufferQuantity": 0,
+            "euRohs": "Compliant",
+            "chinaRohs": "Compliant",
+            "quotable": false,
+            "purchasable": true,
+            "arrowInitiated": false,
+            "nonCancelableNonReturnable": false,
+            "taxonomy": "Interconnect > Connectors > Discrete Wire Housings",
+            "partClassification": "C",
+            "partBuyCurrency": "USD",
+            "exportControlClassificationNumberUS": "EAR99",
+            "exportControlClassificationNumberWAS": "NLR",
+            "lifeCycleStatus": "ACTIVE",
+            "countryOfOrigin": "Republic of Korea",
+            "dateCode": "2232+",
+            "franchised": "franchised",
+            "SVHC": {
+                "svhcOverThreshold": "No"
+            }
+        }
+    ]
+}

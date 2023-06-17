@@ -1,0 +1,93 @@
+{
+    "parts": [
+        {
+            "ttiPartNumber": "0510210200",
+            "manufacturerPartNumber": "0510210200",
+            "manufacturerCode": "MOL",
+            "manufacturer": "Molex",
+            "salesMinimum": 42,
+            "salesMultiple": 1,
+            "partSearchId": "S385184162",
+            "availableToSell": 226274,
+            "buyUrl": "https://www.tti.com/content/ttiinc/en/apps/part-detail.html?partsNumber=0510210200&mfgShortname=MOL&utm=CAV016&channel=link&source=VISUAL%20COMMUNICATIONS%20CO&campaigns=tti-api",
+            "datasheetURL": "https://www.molex.com/pdm_docs/sd/510210200_sd.pdf",
+            "description": "Headers & Wire Housings 1.25MM REC 02P FEMALE",
+            "pricing": {
+                "vipPrice": "0.12",
+                "quantityPriceBreaks": [
+                    {
+                        "quantity": 100,
+                        "price": "0.065"
+                    },
+                    {
+                        "quantity": 250,
+                        "price": "0.064"
+                    }
+                ]
+            },
+            "packaging": "Bulk",
+            "leadTime": "10 Weeks",
+            "partNCNR": "N",
+            "hts": "8538907080",
+            "category": "Headers & Wire Housings",
+            "imageURL": "https://www.mouser.com/images/molex/images/51021_SPL.jpg",
+            "exportInformation": {
+                "eccn": "EAR99",
+                "hts": "8538907080"
+            },
+            "environmentalInformation": {
+                "rohsStatus": "Compliant",
+                "leadInTerminals": "No",
+                "reachSVHC": "No",
+                "reachSubstanceName": "N/A"
+            },
+            "roHsStatus": "Compliant"
+        },
+        {
+            "ttiPartNumber": "51021-0200",
+            "manufacturerPartNumber": "0510210200",
+            "manufacturerCode": "MOL",
+            "manufacturer": "Molex",
+            "salesMinimum": 42,
+            "salesMultiple": 1,
+            "availableToSell": 226274,
+            "buyUrl": "https://www.tti.com/content/ttiinc/en/apps/part-detail.html?partsNumber=51021%2D0200&mfgShortname=MOL&utm=CAV016&channel=link&source=VISUAL%20COMMUNICATIONS%20CO&campaigns=tti-api",
+            "datasheetURL": "https://www.molex.com/content/dam/molex/molex-dot-com/products/automated/en-us/salesdrawingpdf/510/51021/510210200_sd.pdf",
+            "description": "Headers & Wire Housings RECEPTACLE 2P",
+            "pricing": {
+                "vipPrice": "0.12",
+                "quantityPriceBreaks": [
+                    {
+                        "quantity": 100,
+                        "price": "0.065"
+                    },
+                    {
+                        "quantity": 250,
+                        "price": "0.064"
+                    }
+                ]
+            },
+            "packaging": "Bulk",
+            "leadTime": "10 Weeks",
+            "partNCNR": "N",
+            "hts": "8538906000",
+            "category": "Headers & Wire Housings",
+            "imageURL": "https://www.mouser.com/images/molex/images/51021-0200_SPL.jpg",
+            "exportInformation": {
+                "eccn": "EAR99",
+                "hts": "8538906000",
+                "taric": "8547200090"
+            },
+            "environmentalInformation": {
+                "rohsStatus": "Compliant",
+                "leadInTerminals": "No",
+                "reachSVHC": "No",
+                "reachSubstanceName": "N/A"
+            },
+            "roHsStatus": "Compliant"
+        }
+    ],
+    "currencyCode": "USD",
+    "partSearchId": "S385184162",
+    "recordCount": 2
+}
